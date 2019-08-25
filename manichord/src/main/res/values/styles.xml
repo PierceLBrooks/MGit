@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="Theme.Sgit">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="DarkAppTheme" parent="Theme.SgitDark">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="items_with_same_width">
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+
+</resources>
